@@ -1,0 +1,11 @@
+Correr el Docker -- docker-compose up -d
+
+
+Postman  ---> http://localhost:8080/api/users
+
+{
+    "username": "Rosa",
+    "email": "rosa@example.com",
+    "password": "miPasswordSeguro123",
+    "planId": "5ecab8f2-1f1a-4cbe-9426-0ce0412b375c"
+}
